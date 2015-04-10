@@ -1,0 +1,1 @@
+javascript:if(window.toggleCSS)%7Bwindow.toggleCSS()%3B%7Delse %7BAUI().Get.script(%27https://rawgit.com/marcoscv-work/mini-scripts/master/grid4x.js%27)%3B%7D%3B void(0)%3B
